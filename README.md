@@ -1,7 +1,7 @@
 # Hallo World 👋
 
 - 🔭 Ich arbeite im moment für mich
-- 🌱 Ich lerne aktuell Webentwickling
+- 🌱 Ich lerne aktuell Webentwicklung
 - 💬 Wenn ich dir helfen kann
 - 📫 Schick mir eine E-Mail: henke.stefan1985@gmail.com
 - 😄 Ich bin noch in der Lernphase
